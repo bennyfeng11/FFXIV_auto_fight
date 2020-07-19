@@ -4,6 +4,7 @@
 **使用该脚本需要大量手动配置和调试，其操作逻辑可能并不适用于每个人**
 
 该脚本只适用于中国客户端，并且不会考虑其他语言的客户端的兼容。
+
 This script is only applicable to Chinese clients and will not consider the compatibility of clients in other languages.
 
 # 进度
