@@ -1,19 +1,22 @@
 # 介绍
-这是基于Triggernometry和ACT的自动战斗脚本，为了FFXIV。这个只会提供方便的自动战斗功能和合理的dps（而不是极端的dps）。
+基于Triggernometry和ACT的自动战斗脚本，服务于FFXIV。旨在提供方便的自动战斗功能和合理的dps（而不是极端的dps）。
 
 **使用该脚本需要大量手动配置和调试，其操作逻辑可能并不适用于每个人**
 
+**不包含AOE输出功能和自动移动**
+
 该脚本只适用于中国客户端，并且不会考虑其他语言的客户端的兼容。
 
-This script is only applicable to Chinese clients and will not consider the compatibility of clients in other languages.
+This script is only applicable to Chinese clients. The compatibility of clients in other languages will not be considered.
 
 # 进度
 | 已完成 | 测试中 | 计划中 | 毫无头绪
 |--|--|--|--|
 | 骑士 | 武僧 | 召唤 | 黑魔
-|      | 龙骑 |     |
+|      | 龙骑 |     | 武士
 |      | 机工 |     |
 |      | 枪刃 |     |
+|      | 诗人 |     |
 
 # 使用方法
 1. 确保Triggernometry和ACT能正常使用，包括tts功能（不必要）。
