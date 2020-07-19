@@ -9,14 +9,17 @@
 
 This script is only applicable to Chinese clients. The compatibility of clients in other languages will not be considered.
 
+~~副本实测打个紫是没问题。高不成低不就吧~~
+
+
 # 进度
 | 已完成 | 测试中 | 计划中 | 毫无头绪
 |--|--|--|--|
-| 骑士 | 武僧 | 召唤 | 黑魔
-|      | 龙骑 |     | 武士
+| 骑士 | 诗人 | 召唤 | 黑魔
+| 武僧 | 龙骑 |     | 武士
 |      | 机工 |     |
 |      | 枪刃 |     |
-|      | 诗人 |     |
+|      |      |     |
 
 # 使用方法
 1. 确保Triggernometry和ACT能正常使用，包括tts功能（不必要）。
