@@ -1,10 +1,16 @@
 # 更新记录
 2020-07-19
+
 修改了逻辑
+
     强制王权连之后不会切换到手动模式。
+    
     战逃前8秒不会使用深奥。
+    
 2020-07-19 
-    发布v0.1版
+
+发布v0.1版
+
 # 键位设置
 ![输入图片描述](https://uploader.shimo.im/f/PJynZBIODrzJJqcL.png!thumbnail)
 ![输入图片描述](https://uploader.shimo.im/f/DC6MdYNR2QnKDhOj.png!thumbnail)
