@@ -1,18 +1,18 @@
 # 介绍
 基于Triggernometry和ACT的自动战斗脚本，服务于FFXIV。旨在提供方便的自动战斗功能和合理的dps（而不是极端的dps）。
 
-**使用该脚本需要大量手动配置和调试，其操作逻辑可能并不适用于每个人**
+**本脚本只能打木桩，不能用于副本攻略。因本脚本bug、输出不足，造成副本攻略失败，后果自负。**
 
-**不包含AOE输出功能和自动移动**
+**使用本脚本需要大量手动配置和调试，其操作逻辑可能并不适用于每个人**
+
+**不包含AOE输出功能**
 
 该脚本只适用于中国客户端，并且不会考虑其他语言的客户端的兼容。
 
 This script is only applicable to Chinese clients. The compatibility of clients in other languages will not be considered.
 
-~~副本实测打个紫是没问题。高不成低不就吧~~
-
-
 # 进度
+
 | 已完成 | 测试中 | 计划中 | 毫无头绪
 |--|--|--|--|
 | 骑士 | 诗人 | 召唤 | 黑魔
